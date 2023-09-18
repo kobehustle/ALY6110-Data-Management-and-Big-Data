@@ -1,5 +1,5 @@
-# Natural Language Processing with Customers
-(Subject: ALY6040, Data Mining Applications Project)
+# Stock Market Raw Data Portfolio & API utilization 
+(Subject: ALY6110, Data Management and Big Data)
 
 ## Project/Goals
-Topic Modeling to Categorize the Reviews
+Portfolio with a yearly return of +27%
